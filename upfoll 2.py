@@ -16,9 +16,9 @@ print("Auto Followers by ipowfu")
 
 
 
-код_zепето = input("\n• Username: ")
+код_zепето = input("\n• Username:rdhan ")
 
-количество_подписчиков = int(input("• Followers: "))
+количество_подписчиков = int(input("• Followers:5000 "))
 
 
 url = f"https://gw-napi.zepeto.io/profiles/{код_zепето}"
